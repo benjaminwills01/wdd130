@@ -15,15 +15,15 @@ Fonts are separated by a | */
   --paragraph-font: Fira Sans, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #396e94; /* headlines on a white background */
-  --headline-color-on-color: white; /* headlines on a colored background */
-  --paragraph-color-on-white: #396e94; /* paragraph text on a white background */
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */
-  --paragraph-background-color: #396e94;
-  --nav-link-color: #396e94;
-  --nav-background-color: #d4ac0d;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396e94;
+  --headline-color-on-white: #375972; /* headlines on a white background */
+  --headline-color-on-color: #faf8f0; /* headlines on a colored background */
+  --paragraph-color-on-white: #375972; /* paragraph text on a white background */
+  --paragraph-color-on-color: #faf8f0; /* paragraph text on a colored background */
+  --paragraph-background-color: #375972;
+  --nav-link-color: #375972;
+  --nav-background-color: #c17264;
+  --nav-hover-link-color: #faf8f0;
+  --nav-hover-background-color: #375972;
 }
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
